@@ -1,0 +1,67 @@
+{
+  "Navigation": {
+    "about": "About",
+    "services": "Services",
+    "collection": "Collection",
+    "location": "Location",
+    "playground": "Design Playground"
+  },
+  "Hero": {
+    "title1": "DESIGN YOUR OWN",
+    "title2": "CUSTOM SPORTSWEAR",
+    "subtitle": "Premium quality custom jerseys, hoodies, and team apparel. Design online, delivered to your door.",
+    "start": "START DESIGNING",
+    "view": "VIEW COLLECTION"
+  },
+  "About": {
+    "title": "ABOUT SPORT CITY",
+    "p1": "Founded in 2010, Sport City has been the go-to destination for local teams, schools, and fitness enthusiasts looking for premium custom apparel. We believe that what you wear affects how you play.",
+    "p2": "Using state-of-the-art printing technology and high-performance fabrics, we bring your vision to life. Whether you need a single custom hoodie or uniforms for an entire league, we deliver quality without compromise.",
+    "f1": "Premium Materials",
+    "f2": "Fast Turnaround",
+    "f3": "No Minimum Order",
+    "f4": "Expert Support"
+  },
+  "Services": {
+    "title": "WHAT WE OFFER",
+    "subtitle": "Everything you need to create the perfect team uniform or personal athletic wear.",
+    "s1_title": "Custom Printing",
+    "s1_desc": "Screen printing, sublimation, and embroidery for any design.",
+    "s2_title": "Team Uniforms",
+    "s2_desc": "Full kits for soccer, basketball, volleyball, and more.",
+    "s3_title": "Ready to Wear",
+    "s3_desc": "Shop our collection of premium blank athletic apparel."
+  },
+  "Collection": {
+    "title": "OUR EXTENSIVE COLLECTION",
+    "subtitle": "Beyond custom printing, we offer a massive catalog of ready-to-wear sports clothing, accessories, and gear for every athlete.",
+    "c1_title": "Team Jerseys",
+    "c1_desc": "Soccer, Basketball, Baseball & more",
+    "c2_title": "Activewear",
+    "c2_desc": "Leggings, Shorts, Tech Tees",
+    "c3_title": "Outerwear",
+    "c3_desc": "Hoodies, Track Jackets, Windbreakers",
+    "c4_title": "Accessories",
+    "c4_desc": "Bags, Hats, Socks & Equipment",
+    "visit_text": "We carry top brands and our own premium line of athletic wear. Visit our shop to browse the full collection or talk to us about outfitting your entire organization.",
+    "visit_btn": "Visit Our Store"
+  },
+  "Location": {
+    "title": "VISIT OUR SHOP",
+    "subtitle": "Come see our materials in person, try on sizes, or talk to our design specialists about your team's needs.",
+    "address_title": "Address",
+    "address_val1": "Building 49, opposite Gate 3",
+    "address_val2": "Sports City Area (Al-Madina Al-Riyadiya), Amman, Jordan",
+    "phone_title": "Phone",
+    "email_title": "Email",
+    "connect": "Connect With Us"
+  },
+  "CTA": {
+    "title": "READY TO CREATE YOUR GEAR?",
+    "subtitle": "Use our interactive design tool to customize your apparel exactly how you want it.",
+    "btn": "OPEN DESIGN PLAYGROUND"
+  },
+  "Footer": {
+    "rights": "Sport City. All rights reserved."
+  }
+}
