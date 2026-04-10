@@ -173,12 +173,12 @@ export default function Playground() {
           >
             <RotateCcw className="w-4 h-4" /> <span className="hidden sm:inline">Reset</span>
           </button>
-          <button 
+          {/* <button 
             onClick={handleDownload}
             className="bg-slate-900 hover:bg-slate-800 text-white px-3 sm:px-4 py-2 rounded-md font-medium transition-colors flex items-center gap-2 text-sm"
           >
             <Download className="w-4 h-4" /> <span className="hidden sm:inline">Save Design</span>
-          </button>
+          </button> */}
         </div>
       </header>
 

@@ -21,9 +21,12 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16 items-center">
             <div className="flex-shrink-0 flex items-center gap-2">
-              <div className="w-8 h-8 bg-lime-500 rounded-md flex items-center justify-center">
-                <Shirt className="text-white w-5 h-5" />
+              {/* <div className="w-8 h-8 bg-lime-500 rounded-md flex items-center justify-center"> */}
+              {/* <Shirt className="text-white w-5 h-5" /> */}
+              <div>
+                <Image src="/logo2.svg" alt="icon" width={100} height={100} />
               </div>
+              {/* </div> */}
               <span className="font-bebas text-2xl tracking-wider text-slate-900 mt-1">SPORT CITY</span>
             </div>
             <div className="hidden md:flex space-x-8 items-center">
@@ -344,7 +347,13 @@ export default function LandingPage() {
       <footer className="bg-slate-900 text-slate-400 py-12 text-center">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex items-center justify-center gap-2 mb-6">
-            <Shirt className="w-6 h-6 text-lime-400" />
+            <Image
+              src="/logo2.svg"
+              alt="icon"
+              width={100}
+              height={100}
+              className="bg-white rounded-md"
+            />
             <span className="font-bebas text-2xl tracking-wider text-white mt-1">SPORT CITY</span>
           </div>
           <p>&copy; {new Date().getFullYear()} {tFooter('rights')}</p>
